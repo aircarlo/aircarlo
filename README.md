@@ -1,4 +1,5 @@
-### Hi there 👋
+✨ Now online the [demo page](https://aircarlo.github.io/bin2bin_music_inpainting/) with some listening samples from _bin2bin_, a cGAN-based spectrogram inpainting framework, described in:<br> _A Score-aware Generative Approach for Music Signals Inpainting_ - C. Aironi, L. Gabrielli, S. Cornell, S. Squartini (4th International Symposium on the Internet of Sounds, 2023).
+
 
 <!--
 **aircarlo/aircarlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
